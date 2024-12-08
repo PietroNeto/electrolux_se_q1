@@ -8,4 +8,5 @@ before going to the OFF state. Implement this logic in a generic way using the C
 share this code through a public repository on GitHub. Low-level methods can be abstracted. If
 you prefer, use frameworks like Arduino, ESP32 or even other market platforms in this low-level
 code abstraction.
+
 ![alt text](image.png)
